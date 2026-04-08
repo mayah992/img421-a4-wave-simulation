@@ -8,3 +8,5 @@ Duck Quack: https://pixabay.com/sound-effects/nature-%d0%ba%d1%80%d1%8f%d0%ba-%d
 Chicks Chirping: https://pixabay.com/sound-effects/nature-chick-chirping2-332878/
 
 Nature Background Sound: https://pixabay.com/sound-effects/nature-spring-forest-nature-332842/
+
+Swimming Sound: https://pixabay.com/sound-effects/nature-creek-swimming-6728/
