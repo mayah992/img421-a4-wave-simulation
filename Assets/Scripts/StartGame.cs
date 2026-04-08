@@ -7,8 +7,6 @@ public class start_game : MonoBehaviour
 {
     public List<GameObject> apples;
 
-    p
-
     // Start is called before the first frame update
     void Start()
     {

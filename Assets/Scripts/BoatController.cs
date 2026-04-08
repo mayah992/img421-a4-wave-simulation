@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
@@ -11,6 +12,7 @@ public class BoatController : MonoBehaviour
     void Awake()
     {
         if (!rigidbody) rigidbody = GetComponent<Rigidbody>();
+
     }
 
     void FixedUpdate()
