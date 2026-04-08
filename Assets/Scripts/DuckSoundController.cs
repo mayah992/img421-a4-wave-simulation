@@ -5,11 +5,11 @@ public class DuckSoundController : MonoBehaviour
 {
     public AudioSource Quack;
     public AudioSource Swim;
-    private GameObject Duck;
+    private BoatController boat;
 
     void Start()
     {
-        Duck = this.transform.parent.GameObject();
+        boat = GetComponentInParent<BoatController>();
     }
 
     void Update()
@@ -18,12 +18,8 @@ public class DuckSoundController : MonoBehaviour
         {
             PlayQuack();
         }
-        
-        Rigidbody duckRigidBody = Duck.GetComponent<Rigidbody>();
-        Vector3 force = duckRigidBody.GetAccumulatedForce();
-        Vector3 torque = duckRigidBody.GetAccumulatedTorque();
 
-        if(!force.Equals(0) && !torque.Equals(0))
+        if(boat.isMoving == true)
         {
             PlaySwim();
         }

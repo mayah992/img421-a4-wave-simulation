@@ -16,7 +16,6 @@ public class start_game : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
     }
 
     void SpawnApples()
@@ -30,4 +29,5 @@ public class start_game : MonoBehaviour
             Instantiate(prefab, randomPos, Quaternion.identity);
         }
     }
+
 }
