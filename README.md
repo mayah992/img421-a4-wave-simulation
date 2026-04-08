@@ -10,3 +10,5 @@ Chicks Chirping: https://pixabay.com/sound-effects/nature-chick-chirping2-332878
 Nature Background Sound: https://pixabay.com/sound-effects/nature-spring-forest-nature-332842/
 
 Swimming Sound: https://pixabay.com/sound-effects/nature-creek-swimming-6728/
+
+Apple Caught Noise: https://pixabay.com/sound-effects/film-special-effects-apple-bite-316785/
