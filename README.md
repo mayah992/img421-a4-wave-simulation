@@ -9,7 +9,8 @@ Collect apples just by running into them.
 Press Q to Quack
 
 ## Extra Credit
- (1.5) Add a background in the Sky AND use Unity's built-in terrain system to make a terrain along with the water.
+(1.5) Add a background in the Sky AND use Unity's built-in terrain system to make a terrain along with the water.
+ 
 (0.5) Add SFX. SFX is added through water sounds when moving, quacking, and apple crunch when collecting apples.
 
 ## Credit
