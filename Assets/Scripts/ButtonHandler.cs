@@ -12,4 +12,9 @@ public class ButtonHandler : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void ReturnToMenu()
+    {
+        SceneManager.LoadScene("Main_Menu");
+    }
 }
